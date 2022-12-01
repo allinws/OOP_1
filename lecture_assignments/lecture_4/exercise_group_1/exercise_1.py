@@ -23,6 +23,6 @@ print('Mean of new list is', mean_new_list)
 # Lists
 
 # Datatypes:
-# Float, Int
+# Float, Int, string
 
 
