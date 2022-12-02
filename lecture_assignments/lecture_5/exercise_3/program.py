@@ -1,8 +1,8 @@
 class Person():
 
     def __init__(self, name=None, age=None):
-        self.name = None
-        self.age = None
+        self.name = name
+        self.age = age
 
     def set_name(self, name):
         if isinstance(name, str):
