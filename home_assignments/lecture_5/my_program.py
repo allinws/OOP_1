@@ -30,7 +30,7 @@ class PasswordChecker():
         self.weak_passwords = weak_passwords
 
     def is_password_length_ok(self):
-        if len(self.password) > 8:
+        if len(self.password) < 7:
            return False
         return True
 
