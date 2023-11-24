@@ -1,7 +1,7 @@
 # Skapa en class som heter Diary
 
 # Classen ska ha attributen:
-    # "entries" - En lista av entries
+    # "entries" - Kommer vara en lista av entries
     # "name" - En sträng med dagbokens namn
     # "owner" - En sträng med dagbokens ägare
 
